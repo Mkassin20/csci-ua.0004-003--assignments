@@ -1,0 +1,47 @@
+# Meyer Kassin MAK980
+## Part 1
+### 1. What is the output of `head index.html`?
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>The Web Site of YOUR FULL NAME</title>
+   <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+   <header>
+
+### 2. What is the output of `head -1 index.html`?
+<!DOCTYPE html>
+
+
+### 3. What is the output of `tail README.md`?
+6. Log out of i6.
+8. Using `scp` again, copy `style.css` to the `css` folder.
+9. Revisit your i6 web page, refreshing the browser. Does it look different?
+10. Add the URL to your i6 web site to the **Part 2** section of the `answers-file-for-assignment-01--NETID.txt`
+
+## Submission
+Submit `answers-file-for-assignment-01--NETID.txt` via NYU Classes. Remember to replace `NETID` with your NYU NetID.
+
+## Grading
+This is a pass/fail assignment, with each numbered item worth 5 points.
+
+### 4. What is the difference between the `cat` and `more` commands?
+cat command is used to display all contents on screen. more command is used to display content that would fit your screen
+### 5. What is the command to clear your CLI?
+clear or command k
+### 6. What is the command to take you home, regardless of where in your file system the command is run?
+cd
+### 7. In the **Before You Begin** section above, what is the command to copy the file using `cp`?
+cp answers-file-for-assignment-01--mak980.txt ../../../
+### 8. What is the command to create a new, empty file called `file`?
+touch file
+### 9. How do you recursively remove all files and folders from `folder` without interaction from the CLI?
+
+### 10. Explain the difference between `./` and `../`.
+./ in this folder, ../ from parent folder
+## Part 2
+### Paste URL Below
+https://i6.cims.nyu.edu/~mak980/
